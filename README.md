@@ -84,7 +84,7 @@ Ce projet implémente une application JavaFX permettant de réaliser une Analyse
 
 ## Auteurs
 
-- **HoussemDev**
+- **HoussemBouagal**
 
 ## Licence
 
